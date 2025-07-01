@@ -30,16 +30,7 @@ We implement a multi-stage classification framework:
 - Recapitulated known subgroup-specific CNA features (e.g., monosomy 6, i(17q))
 - Identified 4 significant F-profiles and 29 discriminatory 4-mer motifs
 
-## Repository Structure
-
-project-mb-lbseq-classification/
-├── scripts/ # Custom scripts and training pipeline
-├── fragmentomics/ # Forked analysis code from PughLab
-├── derived/ # Output directory for trained models and ROC plots
-├── .gitignore
-├── README.md
-
-Acknowledgments
+## Acknowledgments
 
 Original fragmentomics code adapted from [pughlab/fragmentomics.](https://github.com/pughlab/fragmentomics)
 
