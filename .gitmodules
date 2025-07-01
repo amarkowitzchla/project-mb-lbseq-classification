@@ -1,0 +1,3 @@
+[submodule "fragmentomics"]
+	path = fragmentomics
+	url = git@github.com:amarkowitzchla/fragmentomics.git
