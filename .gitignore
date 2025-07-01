@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+# Node (if relevant)
+node_modules/
+
+# Python (if relevant)
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Git
+*.orig
+*.rej
